@@ -1,2 +1,3 @@
 # Prog1
-I am learning GitHub step by step <br>then i can utilise git hub in global projects 
+I am learning GitHub step by step <br>then i can utilise git hub in global projects<br>
+then after i told to some about GitHub functions 
